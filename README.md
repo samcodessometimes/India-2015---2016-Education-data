@@ -1,7 +1,3 @@
-Here's the README document revised for UK English:
-
----
-
 # Indian School Education Data Analysis
 
 This repository contains Python scripts for analysing Indian school education data from the 2015-16 academic year. The analysis focuses on district-wise and state-wise educational data, including metrics related to schools and teachers.
@@ -68,6 +64,6 @@ This repository contains Python scripts for analysing Indian school education da
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under PERSONAL PROJECT- TIANGAY MASSAQUOI
 
 ---
